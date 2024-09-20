@@ -7,7 +7,7 @@ let pronoun = ["the", "our"];
 let adj = ["great", "big"];
 let noun = ["jogger", "racoon", "telecom", "puedes"];
 
-let extensions = [`es`, `uy`, `ve`, `br`, `py`, `com`];
+let extensions = [`es`, `uy`, `ve`, `br`, `py`, `ar`, `com`];
 
 let dominios = [];
 
